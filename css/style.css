@@ -3,10 +3,10 @@
     margin: 0;
 }
 #box{
-    width: 1000px;
+    width: auto;
 	height: auto;
     /*background: red;*/
-    margin: 0 auto;
+    margin: 20 auto;
 
 }
 #logo{
